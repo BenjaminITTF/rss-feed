@@ -61,5 +61,36 @@
 <itunes:duration>0:00</itunes:duration>
 <itunes:author>Mr. Sonaar</itunes:author>
 </item>
+<item>
+<title>Test RSS 2</title>
+<link>https://lautreradio749305160.wpcomstaging.com/podcast/TestRSS2/</link>
+<pubDate>Wed, 29 May 2021 22:00:00 +0000</pubDate>
+<dc:creator>Mr. Sonaar</dc:creator>
+<description>
+<![CDATA[ . ]]>
+</description>
+<itunes:subtitle>
+<![CDATA[ . ]]>
+</itunes:subtitle>
+<itunes:episodeType>full</itunes:episodeType>
+<content:encoded>
+<![CDATA[ <p>.</p> ]]>
+</content:encoded>
+<itunes:summary>
+<![CDATA[ . ]]>
+</itunes:summary>
+<googleplay:description>
+<![CDATA[ . ]]>
+</googleplay:description>
+<itunes:image href="https://lautreradio749305160.wpcomstaging.com/wp-content/uploads/2021/05/bibli.jpg"/>
+<googleplay:image href="https://lautreradio749305160.wpcomstaging.com/wp-content/uploads/2021/05/bibli.jpg"/>
+<enclosure url="https://lautreradio749305160.wpcomstaging.com/wp-content/uploads/Podcasts/bibli/2021-05-20-07-30.mp3" length="1" type="audio/mpeg"/>
+<itunes:explicit>clean</itunes:explicit>
+<googleplay:explicit>No</googleplay:explicit>
+<itunes:block>no</itunes:block>
+<googleplay:block>no</googleplay:block>
+<itunes:duration>0:00</itunes:duration>
+<itunes:author>Mr. Sonaar</itunes:author>
+</item>
 </channel>
 </rss>
